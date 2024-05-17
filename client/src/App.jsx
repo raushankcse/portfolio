@@ -7,6 +7,7 @@ import Skills from './components/Skills';
 import ProfessionalExperience from './components/ProfessionalExperience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Resume from './components/Resume';
 import Footer from './components/Footer';
 
 
@@ -20,6 +21,7 @@ const App = () =>  {
       <Skills/>
       <ProfessionalExperience/>
       <Projects/>
+      <Resume/>
       <Contact/>
       <Footer/>
     </div>
